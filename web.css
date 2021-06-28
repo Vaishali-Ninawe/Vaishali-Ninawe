@@ -1,0 +1,47 @@
+.h{
+	background: #ff4d4d;
+	padding: 10px;
+	border: 2px solid black;
+	color:#000000;
+	text-align: center;
+}
+
+#b{
+	color:black;
+}
+
+#d{
+	height:500px;
+	width:420px;
+	background: #dcdde1;
+	border:3px solid black;
+	border-radius: 25px;
+	margin:0 auto;
+
+}
+
+#form{
+	color:black;
+	margin-top:5px;
+	margin-left:20px;
+	text-align: center;
+	padding: 3px;
+	height: 30px;
+	width:380px;
+}
+label{
+	align-content: center;
+	margin-top:100px;
+	margin-left:120px;
+}
+
+#button{
+	margin-left:20px;
+	text-align: center;
+	padding: 3px;
+	height: 30px;
+	width:380px;
+	background: red;
+	border:3px solid black;
+	border-radius: 25px;
+}
